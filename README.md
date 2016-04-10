@@ -2,7 +2,7 @@
 Some of the C projects done as part of Master course work
 
 ##CityMap##
-C application to find shortes path between cities in  map
+C application to find shortes path between cities in a map
 Implemented A Star Algoritham to find the shortest path between cities
 Implemented genearal linked list store Cities and neighbour cities.
 
